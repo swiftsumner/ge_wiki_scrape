@@ -1,0 +1,219 @@
+Area,Seat,Voters,Party,Votes,Percentage,Sample Counts %,Swing,Margins,GRC/SMC,Year
+Bukit Batok,1,29948,People's Action Party,15500,54.8,57.0,6.43,9.6,SMC,2020
+Bukit Batok,1,29948,Singapore Democratic Party,12787,45.2,43.0,6.43,9.6,SMC,2020
+Bukit Panjang,1,35437,People's Action Party,18085,53.73,56.0,14.65,7.46,SMC,2020
+Bukit Panjang,1,35437,Singapore Democratic Party,15576,46.27,44.0,14.65,7.46,SMC,2020
+Hong Kah North,1,28046,People's Action Party,16347,60.99,63.0,13.77,21.98,SMC,2020
+Hong Kah North,1,28046,Progress Singapore Party,10457,39.01,37.0,13.77,21.98,SMC,2020
+Hougang,1,26432,Workers' Party,15451,61.21,58.0,3.52,22.42,SMC,2020
+Hougang,1,26432,People's Action Party,9791,38.79,42.0,3.52,22.42,SMC,2020
+Kebun Baru,1,22623,People's Action Party,13309,62.92,68.0,,25.84,SMC,2020
+Kebun Baru,1,22623,Progress Singapore Party,7842,37.08,32.0,,25.84,SMC,2020
+MacPherson,1,28513,People's Action Party,19009,71.74,73.0,6.16,43.48,SMC,2020
+MacPherson,1,28513,People's Power Party,7489,28.26,27.0,,43.48,SMC,2020
+Marymount,1,23431,People's Action Party,12173,55.04,54.0,,10.08,SMC,2020
+Marymount,1,23431,Progress Singapore Party,9943,44.96,46.0,,10.08,SMC,2020
+Mountbatten,1,24246,People's Action Party,16285,73.82,75.0,1.96,47.64,SMC,2020
+Mountbatten,1,24246,Peoples Voice,5775,26.18,25.0,,47.64,SMC,2020
+Pioneer,1,24653,People's Action Party,14593,62.0,66.0,14.34,26.78,SMC,2020
+Pioneer,1,24653,Progress Singapore Party,8289,35.22,32.0,,26.78,SMC,2020
+Pioneer,1,24653,"Independent (Loses $13,500 deposit)",655,2.78,2.0,,26.78,SMC,2020
+Potong Pasir,1,19731,People's Action Party,11264,60.67,61.0,5.74,21.34,SMC,2020
+Potong Pasir,1,19731,Singapore People's Party,7302,39.33,39.0,5.74,21.34,SMC,2020
+Punggol West,1,26587,People's Action Party,15655,60.98,65.0,,21.96,SMC,2020
+Punggol West,1,26587,Workers' Party,10017,39.02,35.0,,21.96,SMC,2020
+Radin Mas,1,24931,People's Action Party,16864,74.01,76.0,3.24,48.02,SMC,2020
+Radin Mas,1,24931,Reform Party,5922,25.99,24.0,3.24,48.02,SMC,2020
+Yio Chu Kang,1,25962,People's Action Party,14775,60.82,61.0,,21.64,SMC,2020
+Yio Chu Kang,1,25962,Progress Singapore Party,9519,39.18,39.0,,21.64,SMC,2020
+Yuhua,1,21351,People's Action Party,14131,70.54,69.0,3.0,41.08,SMC,2020
+Yuhua,1,21351,Singapore Democratic Party,5901,29.46,31.0,3.0,41.08,SMC,2020
+Bishan–Toa Payoh,4,101220,People's Action Party,62983,67.23,67.0,6.36,34.46,GRC,2020
+Bishan–Toa Payoh,4,101220,Singapore People's Party,30696,32.77,33.0,6.36,34.46,GRC,2020
+Chua Chu Kang,4,106632,People's Action Party,59554,58.64,59.0,18.25,17.28,GRC,2020
+Chua Chu Kang,4,106632,Progress Singapore Party,42012,41.36,41.0,,17.28,GRC,2020
+Holland–Bukit Timah,4,114973,People's Action Party,71218,66.36,68.0,0.24,32.72,GRC,2020
+Holland–Bukit Timah,4,114973,Singapore Democratic Party,36100,33.64,32.0,0.24,32.72,GRC,2020
+Jalan Besar,4,107720,People's Action Party,64631,65.36,67.0,2.37,30.72,GRC,2020
+Jalan Besar,4,107720,Peoples Voice,34261,34.64,33.0,,30.72,GRC,2020
+Marsiling–Yew Tee,4,117077,People's Action Party,69813,63.18,64.0,5.55,26.36,GRC,2020
+Marsiling–Yew Tee,4,117077,Singapore Democratic Party,40690,36.82,36.0,5.55,26.36,GRC,2020
+Sengkang,4,120100,Workers' Party,60217,52.12,53.0,,4.24,GRC,2020
+Sengkang,4,120100,People's Action Party,55319,47.88,47.0,,4.24,GRC,2020
+Aljunied,5,150821,Workers' Party,85815,59.95,60.0,8.99,19.9,GRC,2020
+Aljunied,5,150821,People's Action Party,57330,40.05,40.0,8.99,19.9,GRC,2020
+Ang Mo Kio,5,185261,People's Action Party,124597,71.91,72.0,6.72,43.82,GRC,2020
+Ang Mo Kio,5,185261,Reform Party,48677,28.09,28.0,6.72,43.82,GRC,2020
+East Coast,5,121644,People's Action Party,61144,53.39,54.0,7.34,6.78,GRC,2020
+East Coast,5,121644,Workers' Party,53375,46.61,46.0,7.34,6.78,GRC,2020
+Jurong,5,131058,People's Action Party,91846,74.61,75.0,4.67,49.22,GRC,2020
+Jurong,5,131058,Red Dot United,31260,25.39,25.0,,49.22,GRC,2020
+Marine Parade,5,139622,People's Action Party,75203,57.74,57.0,6.33,15.52,GRC,2020
+Marine Parade,5,139622,Workers' Party,55047,42.26,43.0,6.33,15.52,GRC,2020
+Nee Soon,5,146902,People's Action Party,86308,61.9,61.0,4.93,23.8,GRC,2020
+Nee Soon,5,146902,Progress Singapore Party,53131,38.1,39.0,,23.8,GRC,2020
+Pasir Ris–Punggol,5,166556,People's Action Party,100932,64.16,63.0,8.73,40.49,GRC,2020
+Pasir Ris–Punggol,5,166556,Singapore Democratic Alliance,37237,23.67,25.0,3.44,40.49,GRC,2020
+Pasir Ris–Punggol,5,166556,"Peoples Voice (Loses $67,500 deposit)",19147,12.17,12.0,,40.49,GRC,2020
+Sembawang,5,147786,People's Action Party,94176,67.29,69.0,4.99,34.58,GRC,2020
+Sembawang,5,147786,National Solidarity Party,45778,32.71,31.0,4.99,34.58,GRC,2020
+Tampines,5,151589,People's Action Party,94668,66.41,67.0,5.65,32.82,GRC,2020
+Tampines,5,151589,National Solidarity Party,47875,33.59,33.0,5.65,32.82,GRC,2020
+Tanjong Pagar,5,134494,People's Action Party,78330,63.1,63.0,14.61,26.2,GRC,2020
+Tanjong Pagar,5,134494,Progress Singapore Party,45807,36.9,37.0,14.61,26.2,GRC,2020
+West Coast,5,146089,People's Action Party,71658,51.68,52.0,26.89,3.36,GRC,2020
+West Coast,5,146089,Progress Singapore Party,66996,48.32,48.0,,3.36,GRC,2020
+Bukit Batok,1,27077,People's Action Party,18234,73.02,74.0,,46.64,SMC,2015
+Bukit Batok,1,27077,Singapore Democratic Party,6588,26.38,26.0,,46.64,SMC,2015
+Bukit Batok,1,27077,"Independent (Loses $14,500 deposit)",150,0.6,0.0,,46.64,SMC,2015
+Bukit Panjang,1,34317,People's Action Party,21954,68.38,69.0,2.11,36.76,SMC,2015
+Bukit Panjang,1,34317,Singapore Democratic Party,10152,31.62,31.0,2.11,36.76,SMC,2015
+Fengshan,1,23427,People's Action Party,12417,57.5,57.0,,5.0,SMC,2015
+Fengshan,1,23427,Workers' Party,9176,42.5,43.0,,5.0,SMC,2015
+Hong Kah North,1,28145,People's Action Party,19628,74.76,74.0,4.15,49.52,SMC,2015
+Hong Kah North,1,28145,Singapore People's Party,6627,25.24,26.0,4.15,49.52,SMC,2015
+Hougang,1,24097,Workers' Party,13027,57.66,58.0,7.14,15.32,SMC,2015
+Hougang,1,24097,People's Action Party,9565,42.34,42.0,7.14,15.32,SMC,2015
+MacPherson,1,28511,People's Action Party,17251,65.6,63.0,,32.01,SMC,2015
+MacPherson,1,28511,Workers' Party,8833,33.59,36.0,,32.01,SMC,2015
+MacPherson,1,28511,"National Solidarity Party (Loses $14,500 deposit)",215,0.82,1.0,,32.01,SMC,2015
+Mountbatten,1,24143,People's Action Party,15331,71.86,72.0,13.24,43.72,SMC,2015
+Mountbatten,1,24143,Singapore People's Party,6004,28.14,28.0,13.24,43.72,SMC,2015
+Pioneer,1,25458,People's Action Party,18017,76.35,78.0,15.62,53.7,SMC,2015
+Pioneer,1,25458,National Solidarity Party,5581,23.65,22.0,15.62,53.7,SMC,2015
+Potong Pasir,1,17407,People's Action Party,10602,66.39,68.0,16.03,32.78,SMC,2015
+Potong Pasir,1,17407,Singapore People's Party,5368,33.61,32.0,16.03,32.78,SMC,2015
+Punggol East,1,34466,People's Action Party,16977,51.77,51.0,2.77,3.54,SMC,2015
+Punggol East,1,34466,Workers' Party,15818,48.23,49.0,7.22,3.54,SMC,2015
+Radin Mas,1,28906,People's Action Party,20246,77.25,77.0,10.15,64.53,SMC,2015
+Radin Mas,1,28906,Reform Party,3333,12.72,14.0,20.18,64.53,SMC,2015
+Radin Mas,1,28906,"Independent (Loses $14,500 deposit)",2630,10.03,9.0,,64.53,SMC,2015
+Sengkang West,1,30119,People's Action Party,17586,62.13,63.0,4.02,24.26,SMC,2015
+Sengkang West,1,30119,Workers' Party,10721,37.87,37.0,4.02,24.26,SMC,2015
+Yuhua,1,22617,People's Action Party,15324,73.55,72.0,6.69,47.1,SMC,2015
+Yuhua,1,22617,Singapore Democratic Party,5512,26.45,28.0,6.69,47.1,SMC,2015
+Chua Chu Kang,4,119931,People's Action Party,84850,76.91,76.0,15.71,53.82,GRC,2015
+Chua Chu Kang,4,119931,People's Power Party,25475,23.09,24.0,15.71,53.82,GRC,2015
+East Coast,4,99118,People's Action Party,55093,60.73,61.0,5.9,21.46,GRC,2015
+East Coast,4,99118,Workers' Party,35622,39.27,39.0,5.9,21.46,GRC,2015
+Holland–Bukit Timah,4,104491,People's Action Party,62786,66.6,66.0,6.52,33.2,GRC,2015
+Holland–Bukit Timah,4,104491,Singapore Democratic Party,31494,33.4,34.0,6.52,33.2,GRC,2015
+Jalan Besar,4,102540,People's Action Party,63644,67.75,67.0,,35.5,GRC,2015
+Jalan Besar,4,102540,Workers' Party,30302,32.25,33.0,,35.5,GRC,2015
+Marsiling–Yew Tee,4,107599,People's Action Party,68546,68.73,69.0,,37.46,GRC,2015
+Marsiling–Yew Tee,4,107599,Singapore Democratic Party,31185,31.27,31.0,,37.46,GRC,2015
+West Coast,4,99300,People's Action Party,71214,78.57,78.0,12.0,57.14,GRC,2015
+West Coast,4,99300,Reform Party,19426,21.43,22.0,12.0,57.14,GRC,2015
+Aljunied,5,148142,Workers' Party,70050,50.96,52.0,3.76,1.92,GRC,2015
+Aljunied,5,148142,People's Action Party,67424,49.04,48.0,3.76,1.92,GRC,2015
+Bishan–Toa Payoh,5,129975,People's Action Party,86701,73.59,74.0,16.66,47.18,GRC,2015
+Bishan–Toa Payoh,5,129975,Singapore People's Party,31108,26.41,26.0,16.66,47.18,GRC,2015
+Jurong,5,130498,People's Action Party,95228,79.29,78.0,12.33,58.58,GRC,2015
+Jurong,5,130498,Singaporeans First,24869,20.71,22.0,12.33,58.58,GRC,2015
+Marine Parade,5,146244,People's Action Party,85138,64.07,65.0,7.43,28.14,GRC,2015
+Marine Parade,5,146244,Workers' Party,47753,35.93,35.0,7.43,28.14,GRC,2015
+Nee Soon,5,132289,People's Action Party,82287,66.83,67.0,8.43,33.76,GRC,2015
+Nee Soon,5,132289,Workers' Party,40841,33.17,33.0,8.43,33.76,GRC,2015
+Sembawang,5,144672,People's Action Party,96718,72.28,72.0,8.38,44.56,GRC,2015
+Sembawang,5,144672,National Solidarity Party,37087,27.72,28.0,8.38,44.56,GRC,2015
+Tampines,5,143518,People's Action Party,95305,72.07,72.0,14.85,44.14,GRC,2015
+Tampines,5,143518,National Solidarity Party,36943,27.93,28.0,14.85,44.14,GRC,2015
+Tanjong Pagar,5,130752,People's Action Party,90635,77.71,78.0,,55.42,GRC,2015
+Tanjong Pagar,5,130752,Singaporeans First,25998,22.29,22.0,,55.42,GRC,2015
+Ang Mo Kio,6,187771,People's Action Party,135316,78.64,78.0,9.31,57.28,GRC,2015
+Ang Mo Kio,6,187771,Reform Party,36758,21.36,22.0,9.31,57.28,GRC,2015
+Pasir Ris–Punggol,6,187396,People's Action Party,125166,72.89,73.0,8.1,45.78,GRC,2015
+Pasir Ris–Punggol,6,187396,Singapore Democratic Alliance,46550,27.11,27.0,8.1,45.78,GRC,2015
+Aljunied,5,143148,Workers' Party,72289,54.72,,10.81,9.44,GRC,2011
+Aljunied,5,143148,People's Action Party,59829,45.28,,10.81,9.44,GRC,2011
+Ang Mo Kio,6,179071,People's Action Party,112677,69.33,,3.19,38.66,GRC,2011
+Ang Mo Kio,6,179071,Reform Party,49851,30.67,,3.19,38.66,GRC,2011
+Bishan–Toa Payoh,5,122492,People's Action Party,62385,56.93,,,13.86,GRC,2011
+Bishan–Toa Payoh,5,122492,Singapore People's Party,47205,43.07,,,13.86,GRC,2011
+Chua Chu Kang,5,158648,People's Action Party,89710,61.2,,0.83,22.4,GRC,2011
+Chua Chu Kang,5,158648,National Solidarity Party,56885,38.8,,,22.4,GRC,2011
+East Coast,5,120324,People's Action Party,59992,54.83,,9.03,9.66,GRC,2011
+East Coast,5,120324,Workers' Party,49429,45.17,,9.03,9.66,GRC,2011
+Holland–Bukit Timah,4,91607,People's Action Party,48773,60.08,,,20.16,GRC,2011
+Holland–Bukit Timah,4,91607,Singapore Democratic Party,32406,39.92,,,20.16,GRC,2011
+Jurong,5,125276,People's Action Party,76595,66.96,,,33.92,GRC,2011
+Jurong,5,125276,National Solidarity Party,37786,33.04,,,33.92,GRC,2011
+Marine Parade,5,154451,People's Action Party,78286,56.64,,,13.28,GRC,2011
+Marine Parade,5,154451,National Solidarity Party,59926,43.36,,,13.28,GRC,2011
+Moulmein–Kallang,4,87595,People's Action Party,44886,58.55,,,17.1,GRC,2011
+Moulmein–Kallang,4,87595,Workers' Party,31773,41.45,,,17.1,GRC,2011
+Nee Soon,5,148290,People's Action Party,80740,58.4,,,16.8,GRC,2011
+Nee Soon,5,148290,Workers' Party,57523,41.6,,,16.8,GRC,2011
+Pasir Ris–Punggol,6,168971,People's Action Party,100493,64.79,,3.91,29.58,GRC,2011
+Pasir Ris–Punggol,6,168971,Singapore Democratic Alliance,54601,35.21,,3.91,29.58,GRC,2011
+Sembawang,5,142459,People's Action Party,84252,63.9,,12.8,27.8,GRC,2011
+Sembawang,5,142459,Singapore Democratic Party,47605,36.1,,12.8,27.8,GRC,2011
+Tampines,5,137532,People's Action Party,72728,57.22,,11.29,14.44,GRC,2011
+Tampines,5,137532,National Solidarity Party,54381,42.78,,,14.44,GRC,2011
+Tanjong Pagar,5,139771,People's Action Party,,,,,,GRC,2011
+West Coast,5,121045,People's Action Party,72563,66.57,,,33.14,GRC,2011
+West Coast,5,121045,Reform Party,36443,33.43,,,33.14,GRC,2011
+Bukit Panjang,1,33053,People's Action Party,20375,66.27,,10.91,32.54,SMC,2011
+Bukit Panjang,1,33053,Singapore Democratic Party,10372,33.73,,10.91,32.54,SMC,2011
+Hong Kah North,1,27701,People's Action Party,18156,70.61,,,41.22,SMC,2011
+Hong Kah North,1,27701,Singapore People's Party,7556,29.39,,,41.22,SMC,2011
+Hougang,1,24560,Workers' Party,14850,64.8,,2.06,29.6,SMC,2011
+Hougang,1,24560,People's Action Party,8065,35.2,,2.06,29.6,SMC,2011
+Joo Chiat,1,22069,People's Action Party,9666,51.02,,13.99,2.04,SMC,2011
+Joo Chiat,1,22069,Workers' Party,9278,48.98,,13.99,2.04,SMC,2011
+Mountbatten,1,23731,People's Action Party,11985,58.62,,,17.24,SMC,2011
+Mountbatten,1,23731,National Solidarity Party,8461,41.38,,,17.24,SMC,2011
+Pioneer,1,25745,People's Action Party,14593,60.73,,,21.46,SMC,2011
+Pioneer,1,25745,National Solidarity Party,9437,39.27,,,21.46,SMC,2011
+Potong Pasir,1,17327,People's Action Party,7992,50.36,,6.18,0.72,SMC,2011
+Potong Pasir,1,17327,Singapore People's Party,7878,49.64,,6.18,0.72,SMC,2011
+Punggol East,1,33281,People's Action Party,16994,54.54,,,13.53,SMC,2011
+Punggol East,1,33281,Workers' Party,12777,41.01,,,13.53,SMC,2011
+Punggol East,1,33281,"Singapore Democratic Alliance (Loses S$16,000 deposit)",1387,4.45,,,13.53,SMC,2011
+Radin Mas,1,31014,People's Action Party,18609,67.1,,,34.2,SMC,2011
+Radin Mas,1,31014,National Solidarity Party,9123,32.9,,,34.2,SMC,2011
+Sengkang West,1,26882,People's Action Party,14689,58.11,,,16.22,SMC,2011
+Sengkang West,1,26882,Workers' Party,10591,41.89,,,16.22,SMC,2011
+Whampoa,1,21622,People's Action Party,13028,66.1,,,32.2,SMC,2011
+Whampoa,1,21622,National Solidarity Party,6680,33.9,,,32.2,SMC,2011
+Yuhua,1,23195,People's Action Party,14093,66.86,,,33.72,SMC,2011
+Yuhua,1,23195,Singapore Democratic Party,6986,33.14,,,33.72,SMC,2011
+Bukit Panjang,1,30452,People's Action Party,21652,77.18,,,,SMC,2006
+Bukit Panjang,1,30452,Singapore Democratic Party,6400,22.82,,,,SMC,2006
+Chua Chu Kang,1,24975,People's Action Party,14156,60.37,,,,SMC,2006
+Chua Chu Kang,1,24975,Singapore Democratic Alliance,9292,39.63,,,,SMC,2006
+Hougang,1,23759,Workers' Party,13989,62.74,,,,SMC,2006
+Hougang,1,23759,People's Action Party,8308,37.26,,,,SMC,2006
+Joo Chiat,1,21858,People's Action Party,12226,65.01,,,,SMC,2006
+Joo Chiat,1,21858,Workers' Party,6580,34.99,,,,SMC,2006
+MacPherson,1,21041,People's Action Party,13184,68.28,,,,SMC,2006
+MacPherson,1,21041,Singapore Democratic Alliance,6067,31.52,,,,SMC,2006
+Nee Soon Central,1,23152,People's Action Party,14211,65.37,,,,SMC,2006
+Nee Soon Central,1,23152,Workers' Party,7529,34.63,,,,SMC,2006
+Nee Soon East,1,32586,People's Action Party,20949,68.72,,,,SMC,2006
+Nee Soon East,1,32586,Workers' Party,9535,31.28,,,,SMC,2006
+Potong Pasir,1,15888,Singapore Democratic Alliance,8245,55.82,,,,SMC,2006
+Potong Pasir,1,15888,People's Action Party,6527,44.18,,,,SMC,2006
+Yio Chu Kang,1,25072,People's Action Party,15726,68.28,,,,SMC,2006
+Yio Chu Kang,1,25072,Singapore Democratic Alliance,7307,31.72,,,,SMC,2006
+Aljunied,5,145141,People's Action Party,74843,56.09,,,,GRC,2006
+Aljunied,5,145141,Workers' Party,58593,43.91,,,,GRC,2006
+Bishan–Toa Payoh,5,115323,People's Action Party,,,,,,GRC,2006
+East Coast,5,116653,People's Action Party,66931,63.86,,,,GRC,2006
+East Coast,5,116653,Workers' Party,37873,36.14,,,,GRC,2006
+Holland–Bukit Timah,5,118155,People's Action Party,,,,,,GRC,2006
+Hong Kah,5,144677,People's Action Party,,,,,,GRC,2006
+Jalan Besar,5,93025,People's Action Party,58913,69.26,,,,GRC,2006
+Jalan Besar,5,93025,Singapore Democratic Alliance,26151,30.74,,,,GRC,2006
+Jurong,5,116636,People's Action Party,,,,,,GRC,2006
+Tampines,5,126163,People's Action Party,80376,68.51,,,,GRC,2006
+Tampines,5,126163,Singapore Democratic Alliance,36948,31.49,,,,GRC,2006
+West Coast,5,137739,People's Action Party,,,,,,GRC,2006
+Tanjong Pagar,6,148141,People's Action Party,,,,,,GRC,2006
+Pasir Ris–Punggol,6,178443,People's Action Party,113322,68.7,,,,GRC,2006
+Pasir Ris–Punggol,6,178443,Singapore Democratic Alliance,51618,31.3,,,,GRC,2006
+Sembawang,6,184804,People's Action Party,130170,76.7,,,,GRC,2006
+Sembawang,6,184804,Singapore Democratic Party,39537,23.3,,,,GRC,2006
+Marine Parade,6,155149,People's Action Party,,,,,,GRC,2006
+Ang Mo Kio,6,159872,People's Action Party,96636,66.14,,,,GRC,2006
+Ang Mo Kio,6,159872,Workers' Party,49479,33.86,,,,GRC,2006
